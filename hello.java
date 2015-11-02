@@ -5,4 +5,7 @@ public class hello{
 	public void test(){
 		System.out.println("test");
 	}
+	public void add (){
+		System.out.println("add")
+	}
 }
