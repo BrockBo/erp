@@ -10,5 +10,9 @@ public class hello{
 	}
 	public void sub (){
 		System.out.println("sub")
+		System.out.println("sub")
+		System.out.println("sub")
+		System.out.println("sub")
+		System.out.println("sub")
 	}
 }
